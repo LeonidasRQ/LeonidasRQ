@@ -1,5 +1,11 @@
 # 💫 About Me:
-💻 I'm a professional who is passionate about ICT solutions, from Data Analysis to Web Development.<br><br>🚀 I´ve been working for over a year as a backend developer using technologies like Node.js (Express.js, NestJS), some JS supersets like Typescript, relational and non-relational databases (MySQL, PostgreSQL, MongoDB), cloud technologies like AWS (EC2, API Gateway, Lambda Functions), CI/CD pipelines with GitHub Actions, Virtualization with Docker, and RESTful and GraphQL APIs.<br><br>🙋🏻‍♂️ I'm a team player. In the past, I´ve been involved as a tech lead in some corporate projects, mentoring team members and onboarding the new ones. I think of myself as a pretty organized person who enjoys documenting my development process, and managing my time.<br><br>🦾 I'm always learning something new!
+💻 I'm a professional who enjoys making people's lives easier through IT solutions based on web development.
+
+🚀 I´ve been working for two years as a software developer utilizing technologies like JavaScript, Angular, Node.js (Express.js, NestJS), Typescript, relational and non-relational databases (MySQL, PostgreSQL, MongoDB), cloud technologies like AWS (EC2, API Gateway, Lambda Functions), CI/CD pipelines with GitHub Actions, Virtualization with Docker, and RESTful and GraphQL APIs. 
+
+🙋🏻‍♂️ I'm a team player. I´ve been involved as a tech lead in some corporate projects, mentoring team members and onboarding the new ones. I think of myself as a pretty organized person who likes documenting my development process, and managing my time. 
+
+🦾 I'm always learning something new!
 
 
 ## 🌐 Socials:
