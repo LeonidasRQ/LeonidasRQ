@@ -1,12 +1,9 @@
 # 💫 About Me:
-💻 I'm a professional who enjoys making people's lives easier through IT solutions based on web development.
+🎯 Results-driven Full-Stack JavaScript Developer with over three years of experience in building and optimizing web applications. Proficient in both frontend and backend development, specializing in Angular, Node.js, and Express.js.
 
-🚀 I´ve been working for two years as a software developer utilizing technologies like JavaScript, Angular, Node.js (Express.js, NestJS), Typescript, relational and non-relational databases (MySQL, PostgreSQL, MongoDB), cloud technologies like AWS (EC2, API Gateway, Lambda Functions), CI/CD pipelines with GitHub Actions, Virtualization with Docker, and RESTful and GraphQL APIs. 
+🤓 Expertise in optimizing web application performance, streamlining development processes, and fostering a collaborative team environment. Proven track record of delivering scalable backend solutions, teaching complex technical concepts, and mentoring junior developers.
 
-🙋🏻‍♂️ I'm a team player. I´ve been involved as a tech lead in some corporate projects, mentoring team members and onboarding the new ones. I think of myself as a pretty organized person who likes documenting my development process, and managing my time. 
-
-🦾 I'm always learning something new!
-
+🌟 Committed to continuous improvement and innovation in every project.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leonidasrq) 
